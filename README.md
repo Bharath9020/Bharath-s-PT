@@ -1,0 +1,2 @@
+# Bharath Fitness Coach — PWA
+A zero-cost, local-first fitness PWA. Open `index.html` from a static web host that supports HTTPS, then in iPhone Safari use Share → Add to Home Screen. Data is stored locally in the browser. No paid APIs are required.
